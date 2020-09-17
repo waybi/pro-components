@@ -66,7 +66,7 @@ async function release() {
     // Build
     if (!args.skipBuild) {
       logStep('build');
-      await exec('npm', ['run', 'build']);
+      // await exec('npm', ['run', 'build']);
     } else {
       logStep('build is skipped, since args.skipBuild is supplied');
     }

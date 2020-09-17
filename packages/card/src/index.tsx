@@ -15,7 +15,7 @@ type ProCardType = React.FC<ProCardProps> & {
 };
 
 type ProCardChildType = React.ReactElement<ProCardProps, ProCardType>;
-
+console.log(useBreakpoint);
 type ColSpanType = number | string;
 export type Breakpoint = 'xxl' | 'xl' | 'lg' | 'md' | 'sm' | 'xs';
 export type Gutter = number | Partial<Record<Breakpoint, number>>;
