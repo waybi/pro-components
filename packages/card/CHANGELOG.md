@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/ant-design/pro-components/compare/@top-games/pro-card@1.1.0...@top-games/pro-card@1.1.1) (2020-09-17)
+
+### Bug Fixes
+
+- bbb ([975c2c4](https://github.com/ant-design/pro-components/commit/975c2c4becc3b0cfc62fbf42effa641ad09937fb))
+
 # 1.1.0 (2020-09-17)
 
 ### Bug Fixes
