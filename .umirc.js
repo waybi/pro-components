@@ -10,7 +10,7 @@ const pkgList = readdirSync(join(__dirname, 'packages')).filter(
 );
 
 const alias = pkgList.reduce((pre, pkg) => {
-  pre[`@ant-design/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
+  pre[`topgames/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
   return {
     ...pre,
   };
@@ -54,6 +54,6 @@ export default {
     : false,
   hash: true,
   dynamicImport: {
-    loading: '@ant-design/pro-skeleton',
+    loading: 'topgames/pro-skeleton',
   },
 };

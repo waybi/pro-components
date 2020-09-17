@@ -46,7 +46,6 @@ async function release() {
   // }
 
   let updated = null;
-
   if (!args.publishOnly) {
     // Get updated packages
     logStep('check updated packages');

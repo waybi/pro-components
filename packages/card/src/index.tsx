@@ -10,8 +10,6 @@ import './style/index.less';
 
 const { useBreakpoint } = Grid;
 
-console.log(useBreakpoint);
-
 type ProCardType = React.FC<ProCardProps> & {
   isProCard: boolean;
 };
