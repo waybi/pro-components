@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0 (2020-09-17)
+
+### Bug Fixes
+
+- **procard:** colspan not shrink ([#126](https://github.com/ant-design/pro-components/issues/126)) ([f109dce](https://github.com/ant-design/pro-components/commit/f109dcec3cbdbe04891df49f16f5ccd10680f3c0))
+- **procard:** loading block component ([b164aa3](https://github.com/ant-design/pro-components/commit/b164aa32564824c485d45451b34d223b5a1dac77))
+- aaa ([bcc11ed](https://github.com/ant-design/pro-components/commit/bcc11ed206d7b9921831ff2c4aaa9a1847bef40f))
+- procard loading block ([ebdd944](https://github.com/ant-design/pro-components/commit/ebdd944ef6157649d4a6409fa2365afb579fc473))
+- split radius fix ([5665196](https://github.com/ant-design/pro-components/commit/566519645dfb88cd1d8d0b79220f321e3180ce9d))
+
+### Features
+
+- add card loading block ([28c034a](https://github.com/ant-design/pro-components/commit/28c034ac045d207ebf95fc41a8da457c7b48fb42))
+- add procard responsive ([d5299ef](https://github.com/ant-design/pro-components/commit/d5299efe8ce4a5eeb5a825a8f551be2abc61ccff))
+- **card:** Feat/procard collapsible ([#89](https://github.com/ant-design/pro-components/issues/89)) ([8f740d4](https://github.com/ant-design/pro-components/commit/8f740d4c595568e16b1dfc84072bff2b5a438568))
+- **core:** 为 LabelIconTip 添加 subTitle ([#454](https://github.com/ant-design/pro-components/issues/454)) ([92c095c](https://github.com/ant-design/pro-components/commit/92c095cf88c15a959109403cc6321ee1be70225a))
+- card ([30300e1](https://github.com/ant-design/pro-components/commit/30300e17a598cd8004afda38598dc0590f5704ef))
+- test1 ([4004c83](https://github.com/ant-design/pro-components/commit/4004c8324e109025e042bc129081261b8251a196))
+
 # [1.3.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-card@1.2.0...@ant-design/pro-card@1.3.0) (2020-09-17)
 
 ### Features
